@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSchedule" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-19T00:30:18" hostname="DESKTOP-IQ8N2BU" time="0.638">
-  <properties/>
-  <testcase name="test_get_amount_to_pay()" classname="TestSchedule" time="0.638"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

@@ -20,7 +20,6 @@ class TestDay {
         Assertions.assertEquals(1, day.value)
     }
 
-
     @Test
     fun test_check_if_weekday(){
         val day = model.Day.valueOf("MO")

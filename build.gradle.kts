@@ -12,8 +12,7 @@ repositories {
 }
 
 dependencies {
-    implementation("junit:junit:4.13.1")
-    implementation("junit:junit:4.13.1")
+    implementation("junit:junit:4.13.2")
     testImplementation(kotlin("test"))
     testImplementation("io.mockk:mockk:1.12.4")
 
